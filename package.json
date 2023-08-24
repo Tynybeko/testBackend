@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "concurrently \"react-scripts start\" \"react-scripts build\" \"node ./express/index.js\" ",
+    "build": "concurrently \"react-scripts build\" \"node ./express/index.js\" "
   },
   "eslintConfig": {
     "extends": [
