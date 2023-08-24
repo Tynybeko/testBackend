@@ -21,7 +21,7 @@
     "start": "react-scripts start",
     "server": "node ./express/index.js",
     "build": "npm-run-all -p start server",
-    "fast": " react-scripts build"
+    "fast": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
